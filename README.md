@@ -1,5 +1,5 @@
 # "たもち/HTKnyai"です
-学習心理学とITをベースに、人々がもっと楽に楽しく生きられるよう色々なアプリを開発しています。
+学習心理学とITをベースに、人々がもっと楽に楽しく生きられるよう色々なアプリを開発しています。</p>
 最近はReact Native + Expoをよく触っています。
 
 ## Skills
@@ -21,7 +21,11 @@
 ### [ThomassonMap]
 
 ## Stats & Badges
-![使用言語](https://github-readme-stats.vercel.app/api/top-langs?username=HTKnyai&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HTKNyai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=HTKNyai&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=HTKNyai&theme=juicyfresh&no-bg=true" />
+
+![使用言語](https://github-readme-stats.vercel.app/api/top-langs?username=HTKnyai&show_icons=true&theme=tokyonight)</p>
 ![フォロワー](https://img.shields.io/github/followers/HTKnyai?style=social)
 
 ## Automation
