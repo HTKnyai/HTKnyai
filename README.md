@@ -54,9 +54,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=HTKNyai&theme=juicyfresh&no-bg=true" />
 
-![使用言語](https://github-readme-stats.vercel.app/api/top-langs?username=HTKnyai&show_icons=true&theme=tokyonight)</p>
-![フォロワー](https://img.shields.io/github/followers/HTKnyai?style=social)
-
 ### Contact
 - X(旧Twitter): https://x.com/55tamochi
 - Note: https://note.com/55tamochi
