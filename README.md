@@ -21,14 +21,6 @@
 ### [Janko-Keyboard](https://github.com/HTKnyai/janko-midi)
 ### [ThomassonMap]
 
-## Stats & Badges
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HTKNyai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=HTKNyai&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=HTKNyai&theme=juicyfresh&no-bg=true" />
-
-![使用言語](https://github-readme-stats.vercel.app/api/top-langs?username=HTKnyai&show_icons=true&theme=tokyonight)</p>
-![フォロワー](https://img.shields.io/github/followers/HTKnyai?style=social)
-
 ## Automation
 毎日GitHub Actionsで統計・グラフを更新中：
 
@@ -57,8 +49,13 @@
 <picture>
   <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
- <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/HTKNyai/HTKNyai/output-3d-contrib/day.svg" />
+ <img alt="github profile contributions chart"	src="https://raw.githubusercontent.com/HTKNyai/HTKNyai/output-3d-contrib/day.svg" />
 </picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HTKNyai&theme=juicyfresh&no-bg=true" />
+
+![使用言語](https://github-readme-stats.vercel.app/api/top-langs?username=HTKnyai&show_icons=true&theme=tokyonight)</p>
+![フォロワー](https://img.shields.io/github/followers/HTKnyai?style=social)
 
 ### Contact
 - X(旧Twitter): https://x.com/55tamochi
