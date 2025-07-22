@@ -1,16 +1,36 @@
-## Hi there 👋
+# "たもち/HTKnyai"です
+学習心理学とITをベースに、人々がもっと楽に楽しく生きられるよう色々なアプリを開発しています。
+最近はReact Native + Expoをよく触っています。
 
-<!--
-**HTKnyai/HTKnyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Languages**: JavaScript(+TypeScript), Python, PHP, SQL, (C#, Java)
+- **Frameworks / Libraries**: React, React Native (Expo), Vue.js, Next.js, Laravel
+- **BaaS / Backend Platforms**: Firebase (Auth, Firestore, --), Supabase (PostgreSQL, Auth, Storage)
+- **Database**: Firestore, PostgreSQL, MySQL (basic), Supabase Table Editor
+- **Tools / DevOps**: Git, Docker, GitHub, VS Code, Figma, Draw.io
+- **Other**: Notion, Obsidian, Slack, ChatWork, Google Workspace
 
-Here are some ideas to get you started:
+## Projects
+### [Qiita]https://qiita.com/HTKnyai/items/7e229a295fdcf764446d
+個人開発物の紹介記事です。
+### [Woledge]
+### [KajiShare(仮)]
+### [LifeLog(仮)]
+### [EduTrack](https://github.com/HTKnyai/EduTrack)
+### [Janko-Keyboard](https://github.com/HTKnyai/janko-midi)
+### [ThomassonMap]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats & Badges
+![フォロワー](https://img.shields.io/github/followers/HTKnyai?style=social)
+![使用言語](https://github-readme-stats.vercel.app/api/top-langs?username=HTKnyai&show_icons=true&theme=tokyonight)
+
+## Automation
+毎日GitHub Actionsで統計・グラフを更新中：
+
+### Contact
+	•	X(旧Twitter): https://x.com/55tamochi
+	•	Note: https://note.com/55tamochi
+
+---
+
+この構成をベースに、あなた独自の強みやストーリー、成果などを盛り込めば、魅力的でプロフェッショナルなプロフィールができます。プロフィール用READMEは採用担当者やコラボ開発者にも効果抜群。ぜひ試してみてください！
