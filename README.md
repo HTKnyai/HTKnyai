@@ -24,7 +24,7 @@
 学習状況を可視化し、教師による一括管理と教材配布、コミュニティ作成等を実現するwebアプリです。
 ### [Janko-Keyboard](https://github.com/HTKnyai/janko-midi)
 "10倍速で習得できる鍵盤"として作成中の、作曲や音楽理論学習の支援アプリです。
-[pages](https://htknyai.github.io/janko-midi/)で確認できます。
+動作確認は[こちら](https://htknyai.github.io/janko-midi/)。
 ### [ThomassonMap]
 使われない階段や行き止まりのドアといった無機能の構造物 "トマソン" の情報を共有するためのマップ連動型アプリです。
 ## Automation
