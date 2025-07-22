@@ -21,16 +21,13 @@
 ### [ThomassonMap]
 
 ## Stats & Badges
-![フォロワー](https://img.shields.io/github/followers/HTKnyai?style=social)
 ![使用言語](https://github-readme-stats.vercel.app/api/top-langs?username=HTKnyai&show_icons=true&theme=tokyonight)
+![フォロワー](https://img.shields.io/github/followers/HTKnyai?style=social)
 
 ## Automation
 毎日GitHub Actionsで統計・グラフを更新中：
 
 ### Contact
-	•	X(旧Twitter): https://x.com/55tamochi
-	•	Note: https://note.com/55tamochi
+- X(旧Twitter): https://x.com/55tamochi
+- Note: https://note.com/55tamochi
 
----
-
-この構成をベースに、あなた独自の強みやストーリー、成果などを盛り込めば、魅力的でプロフェッショナルなプロフィールができます。プロフィール用READMEは採用担当者やコラボ開発者にも効果抜群。ぜひ試してみてください！
