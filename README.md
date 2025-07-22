@@ -15,7 +15,7 @@ ITと学習心理学をベースに、人々がもっと楽に楽しく生きら
 ### [Qiita](https://qiita.com/HTKnyai/items/7e229a295fdcf764446d)
 個人開発物の紹介記事です。
 ### [Woledge](https://github.com/HTKnyai/woledge-demo)
-新しい情報インフラを目指したツリー構造型ノード管理システムです。
+新しい情報インフラを目指したツリー構造型ナレッジツールです。
 モバイル版配信に向けて移植と改良を行なっています。
 ### [EduTrack](https://github.com/HTKnyai/EduTrack)
 学習状況を可視化し、教師による一括管理と教材配布、コミュニティ作成等を実現するwebアプリです。
