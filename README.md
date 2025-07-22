@@ -1,6 +1,7 @@
 # "たもち/HTKnyai"です
 学習心理学とITをベースに、人々がもっと楽に楽しく生きられるよう色々なアプリを開発しています。</p>
-最近はReact Native + Expoをよく触っています。
+最近はReact Native + Expoでスマホアプリをよく作っています。</p>
+本を書いたり、ゲームを作ったりもします。
 
 ## Skills
 - **Languages**: JavaScript(+TypeScript), Python, PHP, SQL, (C#, Java)
