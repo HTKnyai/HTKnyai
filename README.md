@@ -30,8 +30,7 @@ ITと学習心理学をベースに、人々がもっと楽に楽しく生きら
 使われない階段や行き止まりのドアといった無機能の構造物 "トマソン" の情報を共有するためのマップ連動型アプリです。
 
 ## Automation
-毎日GitHub Actionsで統計・グラフを更新中：
-
+毎日更新:
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
