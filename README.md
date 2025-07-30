@@ -28,6 +28,8 @@ ITと学習心理学をベースに、人々がもっと楽に楽しく生きら
 ユーザーの自己実現を支援するための自己管理支援アプリです。
 ### [ThomassonMap](https://github.com/HTKnyai/ThomassonMap-demo)
 使われない階段や行き止まりのドアといった無機能の構造物 "トマソン" の情報を共有するためのマップ連動型アプリです。
+### [Kokologear](https://kokologear.vercel.app/)
+心理学×テクノロジーのポータルサイトです。
 
 ## Automation
 毎日更新:
